@@ -32,4 +32,4 @@
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span><br/>
 
 ## 📝 Website - [Under Construction]
-[![image](https://github.com/dyobi/dyobi/blob/main/cutie.png)](#)
+[![image](https://github.com/dyobi/dyobi/blob/main/cutie.png)](https://dyobi.github.io)
