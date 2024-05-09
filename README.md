@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyobi&langs_count=6&layout=compact&theme=gruvbox_light&custom_title=Languages)
 
 ## 💁‍♂️ Personal Info
-- Luke Kim
+- Jacob Kim
 - Web Developer
 - Majored in Mechanical Engineering
 - dyobi.92@gmail.com
