@@ -5,7 +5,7 @@
 
 ## 💁‍♂️ Personal Info
 - Jacob Kim
-- Web Developer
+- Software Engineer
 - Majored in Mechanical Engineering
 - dyobi.92@gmail.com
 
